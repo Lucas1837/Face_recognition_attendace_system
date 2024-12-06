@@ -26,7 +26,7 @@ sudo apt install -y python3-pip python3-opencv sqlite3 festival
 # For installing ROS 1 Noetic  
 link for download:https://wiki.ros.org/noetic/Installation/Ubuntu  
 
-# Make sure to create a catkin workspace and package and put the file inside  
+Make sure to create a catkin workspace and package and put the file inside  
 
 
 
