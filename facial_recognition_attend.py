@@ -7,6 +7,7 @@ import json
 
 class FaceRecognitionNode:
     def __init__(self):
+        #this two variables are used as part of anti-spoofing feature, if you wish to increase the sensitivity of face_recognition, can lower down these two variables
         self.contrast = 2  
         self.brightness = 90    
 
